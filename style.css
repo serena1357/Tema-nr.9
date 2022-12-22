@@ -1,0 +1,35 @@
+body {
+    background-color:whitesmoke;
+}
+
+h3 {
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-indent: 20px;
+}
+
+div.a {
+    line-height: 1.6;
+    word-spacing: normal;
+    text-align: justify;
+}
+
+div.b {
+    line-height: 1.6;
+    word-spacing: normal;
+    text-align: left;
+    font-size: 0.875em; /*14px/16=0.875em*/
+}
+
+div.c {
+    line-height: 1.6;
+    word-spacing: normal;
+    text-align: justify; 
+}
+
+div.d {
+    line-height: 1.6;
+    word-spacing: normal;
+    text-align: justify;
+    letter-spacing: 2px;
+}
